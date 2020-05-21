@@ -11,3 +11,6 @@ class Person2:
 
     def use_calc_to_divide(self, x: int, y: int):
         return Calc().divide(x, y)
+
+
+        

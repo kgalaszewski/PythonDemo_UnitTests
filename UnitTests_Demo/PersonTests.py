@@ -3,6 +3,15 @@ from Person import Person, Person2
 from calc import Calc
 from unittest.mock import MagicMock, patch
 
+
+
+# PYTEST LEPSZY SPOJRZ DO ParametrizedUnitTests.py
+# PYTEST LEPSZY SPOJRZ DO ParametrizedUnitTests.py
+# PYTEST LEPSZY SPOJRZ DO ParametrizedUnitTests.py
+# PYTEST LEPSZY SPOJRZ DO ParametrizedUnitTests.py
+
+
+
 # wersja bez mocka
 class PersonTests(unittest.TestCase):
     def setUp(self):
